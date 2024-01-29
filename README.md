@@ -1,4 +1,4 @@
-**To-Do List App README**
+**To-Do List App**
 
 ## Overview:
 This To-Do List App is a simple web application designed to help users organize their tasks efficiently. It is built using HTML, CSS, and JavaScript to provide a straightforward and intuitive interface for managing tasks.
@@ -35,6 +35,9 @@ To use the To-Do List App, follow these steps:
 3. **Delete a Task:** Click on the delete icon (usually represented by a trash can) next to a task to remove it from the list.
 4. **Manage Tasks:** Add, mark, or delete tasks as needed to keep your to-do list organized.
 5. **Persistent Storage:** Tasks are saved in the browser's local storage, so they will persist even after refreshing the page or closing the browser.
+
+## Deployed Site:
+https://mariabeatricenamatovu.github.io/Simple_To-Do-list_App/
 
 ## Preview:
 ![To-Do List App Preview](preview.png)
