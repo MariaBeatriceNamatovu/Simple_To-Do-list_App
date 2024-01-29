@@ -19,12 +19,12 @@ To use the To-Do List App, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:
    ```
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/yourusername/Simple_To-Do_list_App.git
    ```
 
 2. **Navigate to the Directory:** Move into the directory containing the To-Do List App files:
    ```
-   cd todo-list-app
+   cd Simple_To-Do_list_App
    ```
 
 3. **Open Index.html:** Open the `index.html` file in your preferred web browser.
@@ -37,12 +37,11 @@ To use the To-Do List App, follow these steps:
 5. **Persistent Storage:** Tasks are saved in the browser's local storage, so they will persist even after refreshing the page or closing the browser.
 
 ## Preview:
-![To-Do List App Preview](todo_list_preview.png)
+![To-Do List App Preview](preview.png)
 
 ## Support:
-For any questions, issues, or feedback, please contact [your email address].
+For any questions, issues, or feedback, please contact namatovutrismari@gmail.com.
 
 ## License:
 This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code for personal or commercial use.
 
-![preview](preview.png)
